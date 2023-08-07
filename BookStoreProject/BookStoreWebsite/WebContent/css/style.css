@@ -1,0 +1,117 @@
+@charset "ISO-8859-1";
+@charset "UTF-8";
+
+#head {
+  align:"center";
+  display: table;
+}
+
+.logo {
+  display: table-cell;
+  padding-right:30px;
+}
+
+/* logo */
+.image {
+  height:30px;
+}
+
+a:link{
+	color:cornflowerblue;
+	text-decoration: none;
+}
+
+a:visited{
+	color:indigo;
+}
+
+a:hover{
+	color:blue;
+	text-decoration: underline;
+}
+
+a:active{
+	color:red
+}
+
+#head a:link{
+	font-size:larger;
+}
+
+.pageheading{
+	color:darkblue;	
+}
+
+table{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th, td{
+	padding :8px;
+	text-align: center;
+}
+
+th{
+	background: darkblue;
+	color: cornsilk;
+	font-size: larger;
+}
+
+table.form{
+	border:0;
+	padding: 4px;
+	width:80%;
+}
+
+button{
+	padding: 6px;
+	border-radius: 5px;
+}
+
+button[type=submit]{
+	font-weight : bold;
+}
+
+button:hover{
+	background-color: white;
+	color: green; 
+}
+
+input{
+	border: 1px solid;
+	border-radius: 4px;
+	border-color: green;
+	height: 20px;
+}
+
+.message{
+	font-style: italic;
+	color: blue;
+}
+.warningmessage{
+	font-size: larger;
+	font-style: italic;
+	color: red;
+}
+
+.error{
+	color: red;
+	font-style: italic;
+	margin: 5px;
+}
+/* for book list */
+#heading{
+    text-align: center;
+    border-bottom: solid 4px gray;
+
+    padding: 3px;
+    width:15%;
+    font-family: 'Babylonica', cursive;
+    font-family: 'Playfair Display', serif; 
+
+}
+
+img{
+	margin:2px;
+}

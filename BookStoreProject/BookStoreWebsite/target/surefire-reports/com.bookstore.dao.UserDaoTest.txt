@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: com.bookstore.dao.UserDaoTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 3.283 sec <<< FAILURE!
+com.bookstore.dao.UserDaoTest.testListCountAllUsers()  Time elapsed: 3.244 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at com.bookstore.dao.UserDaoTest.testListCountAllUsers(UserDaoTest.java:105)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 15 more
+
+com.bookstore.dao.UserDaoTest.testCreateUsers()  Time elapsed: 0.038 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.bookstore.entity.Users.getUserId()" is null
+	at com.bookstore.dao.UserDaoTest.testCreateUsers(UserDaoTest.java:27)
+

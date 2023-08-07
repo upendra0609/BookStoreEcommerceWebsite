@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="2" name="com.bookstore.dao.UserDaoTest" time="3.282" errors="0" skipped="0">
+  <properties>
+    <property name="jansi.mode" value="force"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="20+36-2344"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-20\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\BookStoreWebsite\BookStoreProject\BookStoreWebsite"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\BookStoreWebsite\BookStoreProject\BookStoreWebsite"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="20+36-2344"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\UPENDR~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="classworlds.conf" value="D:\BookStoreWebsite\BookStoreProject\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf10182742195180797218.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-20\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;D:/Download/Software/Software/STS/sts-4.18.0.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729/jre/bin/server;D:/Download/Software/Software/STS/sts-4.18.0.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\Java\jdk-20\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\upendra singh\AppData\Local\Microsoft\WindowsApps;;D:\Download\Software\Software\STS\sts-4.18.0.RELEASE;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="64.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\upendra singh"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="windows-1252"/>
+    <property name="java.specification.version" value="20"/>
+    <property name="user.name" value="upendra singh"/>
+    <property name="java.class.path" value="D:\Download\Software\Software\STS\sts-4.18.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="20"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -Dstyle.color=always install"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-20"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="20"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\BookStoreWebsite\BookStoreProject\BookStoreWebsite\EMBEDDED"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2023-03-21"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="m2e.build.project.data.socket.port" value="60477"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.bookstore.dao.UserDaoTest" name="com.bookstore.dao.UserDaoTest.testListCountAllUsers" time="3.244">
+    <failure message="org/junit/Assert" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: org/junit/Assert
+	at com.bookstore.dao.UserDaoTest.testListCountAllUsers(UserDaoTest.java:105)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 15 more
+</failure>
+    <system-out>Hibernate: create table bookstoredb.book (book_id integer not null auto_increment, auther varchar(64) not null, description varchar(2000) not null, image tinyblob not null, isbn varchar(15) not null, last_upadte_time datetime(6) not null, price float not null, publish_date date not null, title varchar(128) not null, category_id integer not null, primary key (book_id)) engine=InnoDB
+Hibernate: create table bookstoredb.bookorder (order_id integer not null auto_increment, order_Time datetime(6) not null, orderTotal float not null, payment_method varchar(20) not null, recepient_name varchar(30) not null, recepient_phone varchar(15) not null, shipping_address varchar(256) not null, status varchar(20) not null, customer_id integer not null, primary key (order_id)) engine=InnoDB
+Hibernate: create table bookstoredb.category (category_id integer not null auto_increment, category_name varchar(30) not null, primary key (category_id)) engine=InnoDB
+Hibernate: create table bookstoredb.customer (customer_id integer not null auto_increment, address varchar(128) not null, city varchar(32) not null, country varchar(64) not null, email varchar(64) not null, full_name varchar(30) not null, password varchar(15) not null, phone varchar(15) not null, register_date datetime(6) not null, zipcode varchar(24) not null, primary key (customer_id)) engine=InnoDB
+Hibernate: create table bookstoredb.review (review_id integer not null auto_increment, comment varchar(500) not null, headline varchar(128) not null, rating float not null, review_time datetime(6) not null, book_id integer not null, customer_id integer not null, primary key (review_id)) engine=InnoDB
+Hibernate: create table bookstoredb.users (user_id integer not null auto_increment, email varchar(30) not null, full_name varchar(30) not null, password varchar(16) not null, primary key (user_id)) engine=InnoDB
+Hibernate: alter table bookstoredb.book drop index UK_g0286ag1dlt4473st1ugemd0m
+Hibernate: alter table bookstoredb.book add constraint UK_g0286ag1dlt4473st1ugemd0m unique (title)
+Hibernate: alter table bookstoredb.bookorder drop index UK_hufktdpuv4b5bj4kd3xputdwf
+Hibernate: alter table bookstoredb.bookorder add constraint UK_hufktdpuv4b5bj4kd3xputdwf unique (order_Time)
+Hibernate: alter table bookstoredb.bookorder drop index UK_aiook1dxs09volpq0gh0291mn
+Hibernate: alter table bookstoredb.bookorder add constraint UK_aiook1dxs09volpq0gh0291mn unique (orderTotal)
+Hibernate: alter table bookstoredb.bookorder drop index UK_83if9pjhm4gw6ohtextvo0j6x
+Hibernate: alter table bookstoredb.bookorder add constraint UK_83if9pjhm4gw6ohtextvo0j6x unique (payment_method)
+Hibernate: alter table bookstoredb.bookorder drop index UK_p9odem5oa617mok15tvb2o1ut
+Hibernate: alter table bookstoredb.bookorder add constraint UK_p9odem5oa617mok15tvb2o1ut unique (recepient_name)
+Hibernate: alter table bookstoredb.bookorder drop index UK_i9q4wkodndhqcn1fwuylqrlgt
+Hibernate: alter table bookstoredb.bookorder add constraint UK_i9q4wkodndhqcn1fwuylqrlgt unique (recepient_phone)
+Hibernate: alter table bookstoredb.bookorder drop index UK_q25hrp0r7r8onhw79h97rp6o4
+Hibernate: alter table bookstoredb.bookorder add constraint UK_q25hrp0r7r8onhw79h97rp6o4 unique (shipping_address)
+Hibernate: alter table bookstoredb.bookorder drop index UK_jbywq91jkc66wtn0gq6jkv8rf
+Hibernate: alter table bookstoredb.bookorder add constraint UK_jbywq91jkc66wtn0gq6jkv8rf unique (status)
+Hibernate: alter table bookstoredb.category drop index UK_lroeo5fvfdeg4hpicn4lw7x9b
+Hibernate: alter table bookstoredb.category add constraint UK_lroeo5fvfdeg4hpicn4lw7x9b unique (category_name)
+Hibernate: alter table bookstoredb.customer drop index UK_dwk6cx0afu8bs9o4t536v1j5v
+Hibernate: alter table bookstoredb.customer add constraint UK_dwk6cx0afu8bs9o4t536v1j5v unique (email)
+Hibernate: alter table bookstoredb.users drop index UK_6dotkott2kjsp8vw4d0m25fb7
+Hibernate: alter table bookstoredb.users add constraint UK_6dotkott2kjsp8vw4d0m25fb7 unique (email)
+Hibernate: create table order_detail (quantity integer not null, subtotal float not null, book_id integer not null, order_id integer not null, primary key (book_id, order_id)) engine=InnoDB
+Hibernate: alter table bookstoredb.book add constraint FKam9riv8y6rjwkua1gapdfew4j foreign key (category_id) references bookstoredb.category (category_id)
+Hibernate: alter table bookstoredb.bookorder add constraint FKecljmfthjd46r7i8hnqjt04pa foreign key (customer_id) references bookstoredb.customer (customer_id)
+Hibernate: alter table bookstoredb.review add constraint FK70yrt09r4r54tcgkrwbeqenbs foreign key (book_id) references bookstoredb.book (book_id)
+Hibernate: alter table bookstoredb.review add constraint FKgce54o0p6uugoc2tev4awewly foreign key (customer_id) references bookstoredb.customer (customer_id)
+Hibernate: alter table order_detail add constraint FK3aceepmpjwpo8pdn7gmjdfckq foreign key (book_id) references bookstoredb.book (book_id)
+Hibernate: alter table order_detail add constraint FK4tkow66su9iy9pd8w71i41jlm foreign key (order_id) references bookstoredb.bookorder (order_id)
+Hibernate: select count(*) as col_0_0_ from bookstoredb.users users0_
+0
+</system-out>
+    <system-err>Mar 22, 2023 10:13:02 PM org.hibernate.jpa.internal.util.LogHelper logPersistenceUnitInformation
+INFO: HHH000204: Processing PersistenceUnitInfo [name: BookStoreWebsite]
+Mar 22, 2023 10:13:02 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate ORM core version 5.4.32.Final
+Mar 22, 2023 10:13:02 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager &lt;clinit&gt;
+INFO: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+Mar 22, 2023 10:13:02 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+Mar 22, 2023 10:13:02 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/bookstoredb?autoReconnect=true]
+Mar 22, 2023 10:13:02 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {password=****, user=root}
+Mar 22, 2023 10:13:02 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+Mar 22, 2023 10:13:02 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections &lt;init&gt;
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+Mar 22, 2023 10:13:03 PM org.hibernate.dialect.Dialect &lt;init&gt;
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+Mar 22, 2023 10:13:04 PM org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl getIsolatedConnection
+INFO: HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1823b9c4] for (non-JTA) DDL execution was not in auto-commit mode; the Connection &apos;local transaction&apos; will be committed and the Connection will be set into auto-commit mode.
+Mar 22, 2023 10:13:05 PM org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator initiateService
+INFO: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+</system-err>
+  </testcase>
+  <testcase classname="com.bookstore.dao.UserDaoTest" name="com.bookstore.dao.UserDaoTest.testCreateUsers" time="0.038">
+    <failure message="Cannot invoke &quot;java.lang.Integer.intValue()&quot; because the return value of &quot;com.bookstore.entity.Users.getUserId()&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke &quot;java.lang.Integer.intValue()&quot; because the return value of &quot;com.bookstore.entity.Users.getUserId()&quot; is null
+	at com.bookstore.dao.UserDaoTest.testCreateUsers(UserDaoTest.java:27)
+</failure>
+    <system-out>Hibernate: insert into bookstoredb.users (email, full_name, password) values (?, ?, ?)
+</system-out>
+  </testcase>
+</testsuite>

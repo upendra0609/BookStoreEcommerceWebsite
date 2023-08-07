@@ -1,0 +1,264 @@
+
+Apr 01, 2023 02:37:32.550 NEW SESSION
+Apr 01, 2023 02:37:32.550 [3188:17060:0401/023732.535:ERROR:device_event_log_impl.cc(222)] [02:37:32.534] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 01, 2023 02:37:32.550 [3188:17060:0401/023732.535:ERROR:device_event_log_impl.cc(222)] [02:37:32.534] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 02:37:33.741 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 01, 2023 12:38:36.423 NEW SESSION
+Apr 01, 2023 12:38:36.423 [14824:16188:0401/123836.422:ERROR:device_event_log_impl.cc(222)] [12:38:36.421] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 01, 2023 12:38:36.425 [14824:16188:0401/123836.422:ERROR:device_event_log_impl.cc(222)] [12:38:36.422] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 12:38:36.931 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 01, 2023 16:14:02.596 NEW SESSION
+Apr 01, 2023 16:14:02.596 [12916:18044:0401/161402.593:ERROR:device_event_log_impl.cc(222)] [16:14:02.593] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 01, 2023 16:14:02.597 [12916:18044:0401/161402.595:ERROR:device_event_log_impl.cc(222)] [16:14:02.595] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 16:14:03.869 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 01, 2023 23:19:25.769 [18568:12796:0401/231925.769:ERROR:device_event_log_impl.cc(222)] [23:19:25.769] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 01, 2023 23:19:25.770 [18568:12796:0401/231925.769:ERROR:device_event_log_impl.cc(222)] [23:19:25.769] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 23:19:26.253 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 01, 2023 23:35:29.717 [10388:18552:0401/233529.716:ERROR:device_event_log_impl.cc(222)] [23:35:29.716] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 01, 2023 23:35:29.717 [10388:18552:0401/233529.717:ERROR:device_event_log_impl.cc(222)] [23:35:29.717] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 23:35:30.56 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 01, 2023 23:46:15.889 [10388:18552:0401/234615.889:ERROR:device_event_log_impl.cc(222)] [23:46:15.891] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Apr 02, 2023 21:39:32.22 NEW SESSION
+Apr 02, 2023 21:39:32.22 [15784:17620:0402/213932.007:ERROR:device_event_log_impl.cc(222)] [21:39:32.004] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 02, 2023 21:39:32.23 [15784:17620:0402/213932.009:ERROR:device_event_log_impl.cc(222)] [21:39:32.009] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 02, 2023 21:39:32.752 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 02, 2023 22:16:11.976 [15784:17000:0402/221611.975:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for global.ib-ibi.com failed:
+Apr 02, 2023 22:16:11.978 ----- Certificate i=0 (CN=*.ib-ibi.com,O=KBM Group LLC,L=Louisville,ST=Colorado,C=US) -----
+Apr 02, 2023 22:16:11.979 ERROR: Time is after notAfter
+Apr 02, 2023 22:16:11.979 
+Apr 02, 2023 22:16:11.979 
+Apr 02, 2023 22:29:09.839 [15784:17620:0402/222909.839:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint (unset) for first_image_paint 0.47 s
+Apr 02, 2023 22:29:09.872 [15784:17620:0402/222909.872:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:09.995 [15784:17620:0402/222909.993:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:10.205 [15784:17620:0402/222910.205:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:10.416 [15784:17620:0402/222910.416:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:10.949 [15784:17620:0402/222910.949:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:11.161 [15784:17620:0402/222911.161:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:11.829 [15784:17620:0402/222911.829:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:11.975 [15784:17620:0402/222911.975:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:13.490 [15784:17620:0402/222913.490:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:13.612 [15784:17620:0402/222913.612:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:13.729 [15784:17620:0402/222913.729:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:13.739 [15784:17620:0402/222913.739:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+Apr 02, 2023 22:29:13.871 [15784:17620:0402/222913.871:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.518 s for first_image_paint 0.47 s
+
+Apr 03, 2023 13:22:10.869 NEW SESSION
+Apr 03, 2023 13:22:10.869 [16900:9456:0403/132210.867:ERROR:device_event_log_impl.cc(222)] [13:22:10.867] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 03, 2023 13:22:10.871 [16900:9456:0403/132210.868:ERROR:device_event_log_impl.cc(222)] [13:22:10.867] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 13:22:11.281 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 03, 2023 15:06:22.992 NEW SESSION
+Apr 03, 2023 15:06:22.992 [15944:2044:0403/150622.989:ERROR:device_event_log_impl.cc(222)] [15:06:22.989] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 03, 2023 15:06:22.993 [15944:2044:0403/150622.990:ERROR:device_event_log_impl.cc(222)] [15:06:22.989] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 15:06:24.608 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2023 15:44:20.471 [15944:13560:0403/154420.469:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 15:44:50.998 [15944:13560:0403/154450.996:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 15:45:50.393 [15944:13560:0403/154550.392:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 15:47:51.706 [15944:13560:0403/154751.705:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 15:51:51.692 [15944:13560:0403/155151.691:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 15:58:04.487 [15944:13560:0403/155804.486:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 15:58:12.731 [15944:5880:0403/155812.730:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 03, 2023 15:58:57.758 [15944:5880:0403/155857.758:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 03, 2023 16:00:05.287 [15944:5880:0403/160005.286:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 03, 2023 16:02:54.61 [15944:5880:0403/160254.060:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 03, 2023 16:07:07.207 [15944:5880:0403/160707.206:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 03, 2023 16:08:04.491 [15944:13560:0403/160804.491:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 16:13:26.913 [15944:5880:0403/161326.912:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Apr 03, 2023 18:12:41.706 NEW SESSION
+Apr 03, 2023 18:12:41.706 [3192:12652:0403/181241.704:ERROR:device_event_log_impl.cc(222)] [18:12:41.705] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 03, 2023 18:12:41.706 [3192:12652:0403/181241.705:ERROR:device_event_log_impl.cc(222)] [18:12:41.705] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 18:12:42.296 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2023 19:04:28.888 [3192:2636:0403/190428.871:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:04:54.626 [3192:2636:0403/190454.625:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2023 19:05:03.36 [3192:2636:0403/190503.035:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Apr 04, 2023 01:21:06.870 NEW SESSION
+Apr 04, 2023 01:21:06.871 [2928:22028:0404/012106.868:ERROR:device_event_log_impl.cc(222)] [01:21:06.867] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 04, 2023 01:21:06.872 [2928:22028:0404/012106.871:ERROR:device_event_log_impl.cc(222)] [01:21:06.871] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 01:21:07.705 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 04, 2023 12:10:22.628 NEW SESSION
+Apr 04, 2023 12:10:22.628 [16008:19416:0404/121022.625:ERROR:device_event_log_impl.cc(222)] [12:10:22.624] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 04, 2023 12:10:22.629 [16008:19416:0404/121022.625:ERROR:device_event_log_impl.cc(222)] [12:10:22.624] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 04, 2023 12:10:23.240 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 04, 2023 12:20:50.304 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Apr 04, 2023 12:32:46.25 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Apr 04, 2023 12:40:16.649 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Apr 04, 2023 12:46:11.30 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+
+Apr 05, 2023 18:01:37.383 NEW SESSION
+Apr 05, 2023 18:01:37.383 [21400:21032:0405/180137.380:ERROR:device_event_log_impl.cc(222)] [18:01:37.380] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 05, 2023 18:01:37.384 [21400:21032:0405/180137.381:ERROR:device_event_log_impl.cc(222)] [18:01:37.381] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 05, 2023 18:01:38.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 05, 2023 18:08:15.519 [21400:19780:0405/180815.519:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 05, 2023 18:53:00.739 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Apr 05, 2023 18:57:14.828 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Apr 05, 2023 19:10:08.516 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Apr 05, 2023 19:10:19.569 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Apr 05, 2023 19:12:30.556 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Apr 05, 2023 19:19:22.978 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Apr 05, 2023 19:21:53.213 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Apr 05, 2023 19:42:30.339 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+
+Apr 05, 2023 21:31:00.809 NEW SESSION
+Apr 05, 2023 21:31:00.809 [4596:9872:0405/213100.806:ERROR:device_event_log_impl.cc(222)] [21:31:00.806] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 05, 2023 21:31:00.810 [4596:9872:0405/213100.807:ERROR:device_event_log_impl.cc(222)] [21:31:00.807] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 05, 2023 21:31:01.485 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 06, 2023 10:54:42.340 NEW SESSION
+Apr 06, 2023 10:54:42.340 [15372:16772:0406/105442.337:ERROR:device_event_log_impl.cc(222)] [10:54:42.337] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 06, 2023 10:54:42.341 [15372:16772:0406/105442.337:ERROR:device_event_log_impl.cc(222)] [10:54:42.338] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 10:54:43.124 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 15:58:29.747 [15372:3852:0406/155829.747:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 06, 2023 15:58:35.747 [15372:3852:0406/155835.742:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 06, 2023 16:19:17.488 [15372:16772:0406/161917.488:ERROR:device_event_log_impl.cc(222)] [16:19:17.487] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 06, 2023 16:27:45.414 [15372:16772:0406/162745.413:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:02:11.57 [15372:16772:0406/170211.056:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:02:19.827 [15372:16772:0406/170219.826:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:02:21.80 [15372:16772:0406/170221.078:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:02:36.887 [15372:16772:0406/170236.887:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:02:36.925 [15372:16772:0406/170236.924:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:03:58.483 [15372:16772:0406/170358.483:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:05:12.472 [15372:16772:0406/170512.472:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:05:26.815 [15372:16772:0406/170526.815:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:05:27.990 [15372:16772:0406/170527.990:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:05:41.109 [15372:16772:0406/170541.109:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:05:43.426 [15372:16772:0406/170543.425:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:10:27.731 [15372:16772:0406/171027.731:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:15:32.665 [15372:16772:0406/171532.664:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 06, 2023 17:40:59.603 [15372:16772:0406/174059.602:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+
+Apr 06, 2023 18:09:24.847 NEW SESSION
+Apr 06, 2023 18:09:24.847 [8232:11596:0406/180924.846:ERROR:device_event_log_impl.cc(222)] [18:09:24.846] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 06, 2023 18:09:24.856 [8232:11596:0406/180924.856:ERROR:device_event_log_impl.cc(222)] [18:09:24.856] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 06, 2023 18:09:26.340 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 06, 2023 18:10:20.03 [8232:11596:0406/181020.003:ERROR:device_event_log_impl.cc(222)] [18:10:20.002] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 06, 2023 19:10:45.541 [8232:4252:0406/191045.538:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 06, 2023 19:15:20.559 [8232:4252:0406/191520.559:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Apr 06, 2023 19:50:15.359 [8232:4252:0406/195015.359:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2023 19:50:50.100 [8232:4252:0406/195050.098:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 06, 2023 19:51:42.524 [8232:4252:0406/195142.524:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 07, 2023 11:27:54.72 NEW SESSION
+Apr 07, 2023 11:27:54.72 [10884:11260:0407/112754.070:ERROR:device_event_log_impl.cc(222)] [11:27:54.070] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 07, 2023 11:27:54.73 [10884:11260:0407/112754.070:ERROR:device_event_log_impl.cc(222)] [11:27:54.070] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 07, 2023 11:27:54.798 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 07, 2023 11:53:00.215 [10884:11260:0407/115300.215:ERROR:device_event_log_impl.cc(222)] [11:53:00.215] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 07, 2023 11:55:37.37 [10884:11260:0407/115537.035:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+
+Apr 07, 2023 21:23:44.460 NEW SESSION
+Apr 07, 2023 21:23:44.460 [7068:9276:0407/212344.449:ERROR:device_event_log_impl.cc(222)] [21:23:44.456] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 07, 2023 21:23:44.461 [7068:9276:0407/212344.449:ERROR:device_event_log_impl.cc(222)] [21:23:44.456] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 07, 2023 21:23:45.107 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 08, 2023 24:09:30.637 [7068:9276:0408/000930.629:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:30.773 [7068:9276:0408/000930.765:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:30.890 [7068:9276:0408/000930.886:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:31.48 [7068:9276:0408/000931.047:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:31.182 [7068:9276:0408/000931.181:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:31.630 [7068:9276:0408/000931.630:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:32.335 [7068:9276:0408/000932.335:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:32.517 [7068:9276:0408/000932.515:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:32.856 [7068:9276:0408/000932.856:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:33.452 [7068:9276:0408/000933.452:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:34.51 [7068:9276:0408/000934.051:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:34.774 [7068:9276:0408/000934.773:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:35.388 [7068:9276:0408/000935.388:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:35.810 [7068:9276:0408/000935.810:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:36.555 [7068:9276:0408/000936.554:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:36.602 [7068:9276:0408/000936.597:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:36.880 [7068:9276:0408/000936.880:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:37.123 [7068:9276:0408/000937.123:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:37.232 [7068:9276:0408/000937.232:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:37.339 [7068:9276:0408/000937.339:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:37.465 [7068:9276:0408/000937.465:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:39.890 [7068:9276:0408/000939.890:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:40.26 [7068:9276:0408/000940.026:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:40.81 [7068:9276:0408/000940.079:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+Apr 08, 2023 24:09:42.375 [7068:9276:0408/000942.375:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 3.477 s for first_image_paint 3.462 s
+
+Apr 08, 2023 11:40:33.453 NEW SESSION
+Apr 08, 2023 11:40:33.453 [4812:20036:0408/114033.451:ERROR:device_event_log_impl.cc(222)] [11:40:33.450] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 08, 2023 11:40:33.454 [4812:20036:0408/114033.452:ERROR:device_event_log_impl.cc(222)] [11:40:33.451] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 08, 2023 11:40:34.143 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 08, 2023 11:41:16.194 [21488:16328:0408/114116.192:ERROR:device_event_log_impl.cc(222)] [11:41:16.192] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 08, 2023 11:41:16.195 [21488:16328:0408/114116.194:ERROR:device_event_log_impl.cc(222)] [11:41:16.195] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 08, 2023 11:41:17.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 08, 2023 11:44:22.122 NEW SESSION
+Apr 08, 2023 11:44:22.122 [7620:23432:0408/114422.119:ERROR:device_event_log_impl.cc(222)] [11:44:22.119] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 08, 2023 11:44:22.123 [7620:23432:0408/114422.120:ERROR:device_event_log_impl.cc(222)] [11:44:22.120] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 08, 2023 11:44:24.123 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 08, 2023 18:08:16.904 NEW SESSION
+Apr 08, 2023 18:08:16.904 [21708:12692:0408/180816.899:ERROR:device_event_log_impl.cc(222)] [18:08:16.898] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 08, 2023 18:08:16.907 [21708:12692:0408/180816.901:ERROR:device_event_log_impl.cc(222)] [18:08:16.900] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 08, 2023 18:08:18.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 10, 2023 18:08:55.699 NEW SESSION
+Apr 10, 2023 18:08:55.699 [16620:14484:0410/180855.696:ERROR:device_event_log_impl.cc(222)] [18:08:55.696] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 10, 2023 18:08:55.700 [16620:14484:0410/180855.698:ERROR:device_event_log_impl.cc(222)] [18:08:55.697] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 10, 2023 18:08:55.729 [16620:18920:0410/180855.729:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 18:08:56.560 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 10, 2023 18:09:18.994 [16620:18920:0410/180918.993:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2023 18:09:31.491 [16620:18920:0410/180931.490:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2023 18:09:33.580 [16620:18920:0410/180933.577:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 18:09:35.163 [16620:14484:0410/180935.161:ERROR:device_event_log_impl.cc(222)] [18:09:35.162] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 10, 2023 18:10:04.166 [16620:18920:0410/181004.166:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2023 18:10:50.619 [16620:18920:0410/181050.618:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 10, 2023 18:12:12.304 [16620:18920:0410/181212.302:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2023 18:22:18.418 [16620:18920:0410/182218.418:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2023 18:32:24.573 [16620:18920:0410/183224.572:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2023 18:42:36.679 [16620:18920:0410/184236.679:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2023 18:52:54.823 [16620:18920:0410/185254.823:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2023 19:24:59.981 [16620:18920:0410/192459.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 10, 2023 19:25:20.145 [16620:18920:0410/192520.143:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Apr 11, 2023 10:47:29.911 NEW SESSION
+Apr 11, 2023 10:47:29.912 [880:9040:0411/104729.908:ERROR:device_event_log_impl.cc(222)] [10:47:29.908] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 11, 2023 10:47:29.913 [880:9040:0411/104729.909:ERROR:device_event_log_impl.cc(222)] [10:47:29.910] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 10:47:31.233 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 11:11:55.973 [880:9040:0411/111155.972:ERROR:device_event_log_impl.cc(222)] [11:11:55.970] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Apr 11, 2023 18:47:25.05 NEW SESSION
+Apr 11, 2023 18:47:25.05 [26340:6288:0411/184725.005:ERROR:device_event_log_impl.cc(222)] [18:47:25.006] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 11, 2023 18:47:25.09 [26340:6288:0411/184725.005:ERROR:device_event_log_impl.cc(222)] [18:47:25.007] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 11, 2023 18:47:25.901 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 11, 2023 18:47:42.216 [26340:18548:0411/184742.214:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2023 18:48:28.558 [26340:18548:0411/184828.558:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2023 18:49:19.542 [26340:18548:0411/184919.541:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2023 18:50:57.893 [26340:18548:0411/185057.892:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2023 18:54:32.761 [26340:18548:0411/185432.761:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2023 19:01:44.101 [26340:18548:0411/190144.101:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2023 19:46:05.721 [26340:18548:0411/194605.721:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Apr 11, 2023 19:49:56.917 [26340:18548:0411/194956.917:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Apr 12, 2023 12:29:46.641 NEW SESSION
+Apr 12, 2023 12:29:46.641 [11784:19140:0412/122946.638:ERROR:device_event_log_impl.cc(222)] [12:29:46.637] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 12, 2023 12:29:46.643 [11784:19140:0412/122946.639:ERROR:device_event_log_impl.cc(222)] [12:29:46.638] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 12:29:50.22 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 12, 2023 18:27:41.673 NEW SESSION
+Apr 12, 2023 18:27:41.673 [17576:26332:0412/182741.670:ERROR:device_event_log_impl.cc(222)] [18:27:41.669] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 12, 2023 18:27:41.675 [17576:26332:0412/182741.674:ERROR:device_event_log_impl.cc(222)] [18:27:41.674] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 18:27:42.852 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 13, 2023 10:23:41.906 NEW SESSION
+Apr 13, 2023 10:23:41.906 [16352:1776:0413/102341.904:ERROR:device_event_log_impl.cc(222)] [10:23:41.899] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 13, 2023 10:23:41.920 [16352:1776:0413/102341.919:ERROR:device_event_log_impl.cc(222)] [10:23:41.919] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 10:23:43.411 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 13, 2023 11:59:20.297 [16352:1776:0413/115920.295:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Apr 13, 2023 12:00:39.870 [16352:1776:0413/120039.870:ERROR:device_event_log_impl.cc(222)] [12:00:39.870] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Apr 13, 2023 16:53:33.799 NEW SESSION
+Apr 13, 2023 16:53:33.799 [19832:16960:0413/165333.796:ERROR:device_event_log_impl.cc(222)] [16:53:33.796] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 13, 2023 16:53:33.802 [19832:16960:0413/165333.797:ERROR:device_event_log_impl.cc(222)] [16:53:33.797] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 16:53:34.517 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 20, 2023 18:46:35.881 NEW SESSION
+Apr 20, 2023 18:46:35.881 [34352:24448:0420/184635.877:ERROR:device_event_log_impl.cc(222)] [18:46:35.877] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Apr 20, 2023 18:46:35.883 [34352:24448:0420/184635.880:ERROR:device_event_log_impl.cc(222)] [18:46:35.880] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 20, 2023 18:46:37.652 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
