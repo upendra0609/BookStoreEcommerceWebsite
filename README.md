@@ -1,1 +1,3 @@
-# bookStore
+Book Store Ecommerce Website->
+• A fully functional e-commerce website for a bookstore using Java Servlet, JSP, and the Hibernate framework with JPA for the data access layer. The website allows customers to browse, search, and purchase books, as well as write reviews and register accounts. Additionally, an admin panel was designed to manage books, customers, reviews, and orders improving administrative efficiency. Applied login and logout functionality to secure the application. Enabled customers to contribute by writing reviews and registering accounts, enhancing user engagement.
+• Technologies Used - Java, Java Servlet, HTML5, JavaScript, JSP, JSTL, Hibernate with JPA, MySQL, STS Tool, Maven.
