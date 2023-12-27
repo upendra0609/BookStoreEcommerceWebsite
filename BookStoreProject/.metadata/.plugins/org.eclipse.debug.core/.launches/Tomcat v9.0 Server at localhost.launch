@@ -17,5 +17,4 @@
     <stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-20"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="start"/>
     <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dcatalina.base=&quot;D:\Code\BookStoreWebsite\BookStoreProject\.metadata\.plugins\org.eclipse.wst.server.core\tmp0&quot; -Dcatalina.home=&quot;D:\Download\Software\Software\apache\apache-tomcat-9.0.73-windows-x64\apache-tomcat-9.0.73&quot; -Dwtp.deploy=&quot;D:\Code\BookStoreWebsite\BookStoreProject\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps&quot; --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED"/>
-    <stringAttribute key="server-id" value="Tomcat v9.0 Server at localhost"/>
 </launchConfiguration>
