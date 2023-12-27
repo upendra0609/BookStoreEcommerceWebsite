@@ -1,3 +1,0 @@
-INDEX VERSION 1.4+D:\BookStoreWebsite\BookStoreProject\Demo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1657330681.index
-1591368824.index

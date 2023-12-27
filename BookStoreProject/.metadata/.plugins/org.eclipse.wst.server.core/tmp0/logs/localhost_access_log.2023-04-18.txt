@@ -1,8 +1,0 @@
-127.0.0.1 - - [18/Apr/2023:19:06:34 +0530] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [18/Apr/2023:19:06:40 +0530] "GET /BookStoreWebsite/js/jquery.richtext.min.js HTTP/1.1" 304 -
-0:0:0:0:0:0:0:1 - - [18/Apr/2023:19:06:40 +0530] "GET /BookStoreWebsite/ HTTP/1.1" 200 759707
-0:0:0:0:0:0:0:1 - - [18/Apr/2023:19:06:40 +0530] "GET /BookStoreWebsite/css/style.css HTTP/1.1" 304 -
-0:0:0:0:0:0:0:1 - - [18/Apr/2023:19:06:40 +0530] "GET /BookStoreWebsite/images/rating_on.png HTTP/1.1" 304 -
-0:0:0:0:0:0:0:1 - - [18/Apr/2023:19:06:40 +0530] "GET /BookStoreWebsite/images/rating_half.png HTTP/1.1" 304 -
-0:0:0:0:0:0:0:1 - - [18/Apr/2023:19:06:40 +0530] "GET /BookStoreWebsite/images/rating_off.png HTTP/1.1" 304 -
-0:0:0:0:0:0:0:1 - - [18/Apr/2023:19:06:40 +0530] "GET /favicon.ico HTTP/1.1" 404 762
